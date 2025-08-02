@@ -1,2 +1,0 @@
-# pemsel
-prektikum
